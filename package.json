@@ -1,7 +1,7 @@
 {
-  "name": "loan-shark",
+  "name": "sharkie-the-loan-friendly-hammerhead",
   "version": "1.0.0",
-  "description": "Loaning NFT - return or else the shark with eat you",
+  "description": "Loaning SmartMint or Other NFT ERC721s - return or else the shark with eat you",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,9 +13,9 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/blockrockettech/loan-shark/issues"
+    "url": "https://github.com/cleancoindev/loan-shark/issues"
   },
-  "homepage": "https://github.com/blockrockettech/loan-shark#readme",
+  "homepage": "https://github.com/cleancoindev/loan-shark#readme",
   "dependencies": {
     "@openzeppelin/contracts": "^2.5.0",
     "@openzeppelin/test-helpers": "^0.5.4",
