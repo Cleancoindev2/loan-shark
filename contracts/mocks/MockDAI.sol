@@ -6,7 +6,7 @@ import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 contract MockDAI is ERC20, ERC20Detailed {
 
     constructor ()
-    ERC20Detailed("DAI", "DAI", 18)
+    ERC20Detailed("SRKY", "SRKY", 18)
     public {
     }
 
