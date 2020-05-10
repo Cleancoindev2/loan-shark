@@ -7,7 +7,7 @@ contract SimpleNft is ERC721MetadataMintable, ERC721Enumerable {
 
     constructor()
     ERC721MetadataMintable()
-    ERC721Metadata("SimpleNft", "sNFT") public  {
+    ERC721Metadata("SmartMintTestBond", "eBOND") public  {
         //
     }
 
